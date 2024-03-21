@@ -41,7 +41,7 @@ Requisições para a API devem seguir os padrões:
 ## Respostas
 | Código | Descrição |
 |---|---|
-| `200` | `#0969DA` Requisição executada com sucesso (success).|
+| `200` | Requisição executada com sucesso (success).|
 | `400` | Erros de validação ou os campos informados não existem no sistema.|
 | `401` | Dados de acesso inválidos.|
 | `404` | Registro pesquisado não encontrado (Not found).|
