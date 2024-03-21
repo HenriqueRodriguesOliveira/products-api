@@ -24,6 +24,12 @@ Neste projeto eu desenvolvi códigos com relação aos estudos do SpringBoot.
  * Postman
  * [Guia de configuração de ambiente.](https://spring.io/quickstart)
 
+## Dependências
+* Spring Web MVC
+* Spring Data JPA
+* Spring Validation
+* Spring Halteoas
+
 ## Instalação
 1. Copie o link do projeto que está no Github.
 2. Instale o Git.
