@@ -1,7 +1,8 @@
 <div align="center">
  <h1>Products API</h1>
 </div>
-  <img src="https://github.com/HenriqueRodriguesOliveira/products-api/assets/79226722/a96ea33d-70ef-4e46-8521-b88ea2fcd72e" alt="Logo Java">
+  <img src="https://github.com/HenriqueRodriguesOliveira/products-api/assets/79226722/7ff53bc3-d81c-45b9-a835-b259b1c9907f" alt="IDE Código">
+  <img src="https://github.com/HenriqueRodriguesOliveira/products-api/assets/79226722/a96ea33d-70ef-4e46-8521-b88ea2fcd72e" alt="Postman/PostgreSQL">
 </br>
 </br>
 
